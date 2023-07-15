@@ -1,0 +1,51 @@
+body {
+    background-color: pink;
+    color: pink;
+}
+.username-input{
+    border-color: black;
+    background-color: lightpink;
+    border-radius: 10px;
+    height: 25px;
+    width: 150px;
+    width: 90%;
+    margin-left: 20px;
+    border: none;
+    padding: 3px;
+}
+.username{
+    color: black;
+    margin-left: 150px;
+}
+.password-input{
+    border-color: black;
+    background-color: lightpink;
+    border-radius: 10px;
+    height: 25px;
+    width: 150px;
+    width: 90%;
+    margin-left: 20px;
+    border: none;
+    padding: 3px;
+}
+.password{
+    color: black;
+    margin-left: 150px;
+}
+.container {
+    width: 400px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    margin-left: 550px;
+}
+.login-button{
+    border: none;
+    border-radius: 10px;
+    width: 50%;
+    margin-bottom: 5px;
+    margin-left: 85px;
+    margin-top: 20px;
+    padding: 8px;
+    cursor: pointer;
+}
